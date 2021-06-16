@@ -1,4 +1,4 @@
-## guessinggame.sh for Coursera/JHU's The Unix Workbench course
+## Guessing game for the Unix course on Coursera
 
 README.md created: Wed Jun 16 9:27:06 CET 2021
 
